@@ -1,0 +1,5 @@
+sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
+EYP211I,Simulacion Estocastica,MAT,PR,True,"EYP2114",Semestral
+EYP280I,Metodos Bayesianos,MAT,PR,True,"EYP2114",Semestral
+IMT2260,Teoria de Aprendizaje Automatico,IMC,PR,True,"EYP2114,IIC2440,IMT2250",Anual
+OPR,,,,False,,

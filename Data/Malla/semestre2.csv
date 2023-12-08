@@ -1,0 +1,5 @@
+sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
+IIC2233,Programacion Avanzada,ING,PR,True,"IIC1103",Semestral
+IMT2200,Introduccion a la Ciencia de Datos,IMC,PR,True,"IIC1103,MAT1107,MAT1207",Anual
+IMT2210,Algebra Lineal para Ciencia de Datos,IMC,PR,True,"IIC1103,MAT1207",Semestral
+MAT1610,Calculo I,MAT,PR,True,"MAT1107",Semestral

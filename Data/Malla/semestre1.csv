@@ -1,0 +1,5 @@
+sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
+IIC1103,Introduccion a la Programacion,ING,PR,True,,Semestral
+MAT0007,Taller de Matematicas para la Estadistica,MAT,PR,True,,Anual
+MAT1107,Introduccion al Calculo,MAT,PR,True,,Semestral
+MAT1207,Introduccion al Algebra y Geometria,MAT,PR,True,,Semestral

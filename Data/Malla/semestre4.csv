@@ -1,0 +1,5 @@
+sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
+EYP1025,Modelos Porbabilisticos,MAT,PR,True,"IMT2220,IMT2230",Semestral
+IIC2133,Estructura de Datos y Algoritmos,ING,PR,True,"IIC1253,IIC2233",Semestral
+IIC2413,Bases de Datos,ING,PR,True,"IIC2233",Semestral
+IMT2250,Optimizacion para Ciencia de Datos,IMC,PR,True,"IMT2210,IMT2220",Anual

@@ -1,0 +1,5 @@
+sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
+EYP210I,Procesos Estocasticos Aplicados,MAT,PR,True,"EYP2114",Semestral
+EYP230I,Analisis de Regresion,MAT,PR,True,"EYP2114",Semestral
+IIC2026,Visualizacion de Informacion,ING,PR,True,"IIC1103",Semestral
+IIC2433,Mineria de Datos,ING,PR,True,"EYP2114,EYP1025,IMT2210",Semestral
