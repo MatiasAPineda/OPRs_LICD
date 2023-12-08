@@ -1,5 +1,5 @@
-sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
-EYP2114,Inferencia Estadistica,MAT,PR,True,"EYP1025",Semestral
-IIC2613,Inteligencia Artificial,ING,PR,True,"IIC2233,EYP1025",Semestral
-IIC2440,Procesamiento de Datos Masivos,ING,PR,True,"IIC2133,IIC2413",Anual
-OPR,,,,False,,
+sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo,aprobado
+EYP2114,Inferencia Estadistica,MAT,PR,"EYP1025",Semestral,True
+IIC2613,Inteligencia Artificial,ING,PR,"IIC2233,EYP1025",Semestral,True
+IIC2440,Procesamiento de Datos Masivos,ING,PR,"IIC2133,IIC2413",Anual,True
+OPR,,,,,,False

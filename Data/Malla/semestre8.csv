@@ -1,5 +1,5 @@
-sigla,nombre,escuela,nivel,aprobado,pre-requisitos,periodo
-IMT2270,Proyecto de Graduacion,IMC,PR,True,"EYP280I,IMT2260,IMT2240,IMT2250",Anual
-OPR,,,,False,,
-OPR,,,,False,,
-OPR,,,,False,,
+sigla,nombre,escuela,nivel,pre-requisitos,periodo,aprobado
+IMT2270,Proyecto de Graduacion,IMC,PR,"EYP280I,IMT2260,IMT2240,IMT2250",Anual,True
+OPR,,,,,,False
+OPR,,,,,,False
+OPR,,,,,,False
