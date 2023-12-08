@@ -20,7 +20,7 @@ Este archivo `.csv` guarda los datos de los optativos de profundización que se 
 * Sigla
 * Nombre
 * Unidad Académica a Cargo
-* Nivel (PR, MG, DT)
+* Nivel (PR: Pregrado, MG: Magister, DT: Doctorado)
 * Pre-requisitos 
 
 Idealmente no modificar este archivo, cualquier actualización de este será infomado y subido al repositorio. Si se encuentra algún error en los datos, por favor contactarse a la brevedad por mail.
