@@ -1,5 +1,0 @@
-sigla,nombre,escuela,nivel,pre-requisitos,periodo,aprobado
-IIC1253,Matematicas Discretas,ING,PR,"IMT2210",Semestral,True
-IMT2220,Calculo para Ciencia de Datos,IMC,PR,"IMT2210,MAT1610",Semestral,True
-IMT2230,Algebra Lineal Avanzada y Modelamiento,IMC,PR,"IMT2210,MAT1610",Semestral,True
-IMT2240,Ciencia de Datos Responsable,IMC,PR,"IMT2200,IIC2233",Semestral,True
