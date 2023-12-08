@@ -2,11 +2,11 @@
 
 ## Introducción:
 
-Este Notebook está hecho para visualizar los optativos de profundización de la carrera, según los ramos aprobados del usuario. La idea de que cualquier persona, independiente del semestre y sus ramos aprobados, pueda hacer un filtro sin tomarse la tediosa tarea de buscar cada `OPR` en catálogo uc.
+Este Notebook está hecho para visualizar los optativos de profundización de la carrera, según los ramos aprobados del usuario. La idea es que cualquier persona, independiente del semestre y sus ramos aprobados, pueda hacer un filtro sin tomarse la tediosa tarea de buscar cada `OPR` en catálogo uc.
 
 Se espera que este Notebook acompañe a cada uno en su trayectoria académica, que sea único al igual que el usuario y sea moldeable a cada cambio que efectue la unidad académica (`IMC`).
 
-Toda la información presentada en los archivos `.csv` que se usan en este Notebook fueron obtenidos de la página oficial de la Pontificia Universidad Católica de Chile: https://catalogo.uc.cl.
+Toda la información presentada en los archivos que se usan en este Notebook fueron obtenidos de la página oficial de la Pontificia Universidad Católica de Chile: https://catalogo.uc.cl.
 
 ## Archivo `malla_licd.xlsx`:
 ---
